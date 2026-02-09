@@ -4,7 +4,7 @@
 As part of my transition into Data Science, I wanted to move beyond textbook datasets and work with real-world public records. This project analyzes the **NYC Capital Projects** dataset to understand how infrastructure budgets evolve from original estimates to final costs.
 
 ## Why this project?
-I chose this dataset to practice "Cost Intelligence"—identifying where efficiencies are lost in large-scale programs. This aligns with my interest in how data can support better infrastructure planning.
+I chose this dataset to practice "Cost Intelligence" identifying where efficiencies are lost in large-scale programs. This aligns with my interest in how data can support better infrastructure planning.
 
 ## Key Learnings & Steps
 * **Data Retrieval:** Practiced writing **SQL** queries to filter thousands of records for "Active" projects.
