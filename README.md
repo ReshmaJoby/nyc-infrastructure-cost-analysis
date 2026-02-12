@@ -5,7 +5,7 @@ Infrastructure projects are notorious for budget creep. This project analyzes th
 
 ## Key Insights
 * **The Middle-Market Gap:** Projects in the $20M–$100M range represent the highest risk, with an average budget variance of 54%, significantly outperforming Mega-projects in terms of cost instability.
-* **Manhattan Friction:** UGeographic data reveals that Manhattan is the most volatile environment for execution, averaging a 70% cost overrun.
+* **Manhattan Friction:** Geographic data reveals that Manhattan is the most volatile environment for execution, averaging a 70% cost overrun.
 * **Categorical Risk:** Infrastructure sectors like Waterfront Construction and City Tunnel No. 3 show a 100% frequency of budget increases.
 
 ## Technical Workflow
